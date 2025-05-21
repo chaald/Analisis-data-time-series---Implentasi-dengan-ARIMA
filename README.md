@@ -2,7 +2,7 @@
 Analisis data time series pada harga penutupan harian saham Apple Inc untuk pengambilan keputusan investasi menggunakan ARIMA
 
 ## Deskripsi Data  
-Dataset berasal dari Yahoo Finance dan berisi beberapa kolom data harga saham harian, yaitu:  
+Dataset berasal dari saham Apple Inc dan berisi beberapa kolom data harga saham harian, yaitu:  
 - **Date**: Tanggal pencatatan harga saham.  
 - **Open**: Harga pembukaan saham pada tanggal tersebut.  
 - **High**: Harga tertinggi saham diperdagangkan.  
